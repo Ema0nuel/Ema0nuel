@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Ema0nuel
-- 👀 I’m a Junior Front-End developer
-- 🌱 I’m currently learning Javascript, NodeJs and React(JSX)
-- 💞️ I’m looking to collaborate on various projects in other for me to get an internship as a front-end developer
-- 📫 How to reach me?
-- contact my mail emas08177@gmail.com or https://www.x.com/@ema0nuel
+# 👋 Hi, I’m Emmanuel  
 
-<!---
-Ema0nuel/Ema0nuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Mid-level Front-End Developer** passionate about building sleek, scalable, and user-friendly web experiences.  
+My journey spans across **SEO optimization, DevOps practices, and exploring AI-driven solutions**, blending creativity with performance.  
+
+I also have experience as a **C#, ASP.Net, and Razor developer**, giving me a solid foundation in both front-end and back-end development.  
+Currently, I’m deepening my skills in **Advanced JavaScript, React (JSX), and Node.js** to push my craft further and deliver even more dynamic solutions.  
+
+---
+
+🌱 **Learning & Growth:** Constantly sharpening my skills while documenting the journey.  
+🤝 **Collaboration:** Open to projects, internships, and team opportunities that challenge me to grow and add real value.  
+📫 **Reach Me:**  
+- Email: **emas08177@gmail.com**  
+- X (Twitter): [@emsunday090](https://x.com/emsunday090)
+- Instagram: [@emsunday090](https://instagram/emsunday090)
+- WhatsApp: **+2349014773195**  
+
+---
+
+✨ Let’s connect, collaborate, and build impactful products. 🚀
