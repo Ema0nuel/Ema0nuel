@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an Advance Front-End Developer passionate about building sleek, scalable, and user-friendly web experiences.  <br>My journey spans across SEO optimization, DevOps practices, and exploring AI-driven solutions**, blending creativity with performance.  <br><br>I also have experience as a C#, ASP.Net, and Razor developer**, giving me a solid foundation in both front-end and back-end development.  <br>Currently, I’m deepening my skills in **Advanced JavaScript, React (JSX), and Node.js** to push my craft further and deliver even more dynamic solutions.
+I’m an Advance Front-End Developer passionate about building sleek, scalable, and user-friendly web experiences.  <br>My journey spans across **SEO optimization, DevOps practices, and exploring AI-driven solutions**, blending creativity with performance.  <br><br>I also have experience as a **C#, ASP.Net, and Razor developer**, giving me a solid foundation in both front-end and back-end development.  <br>Currently, I’m deepening my skills in **Advanced JavaScript, React (JSX), and Node.js** to push my craft further and deliver even more dynamic solutions.
 
 
 ## 🌐 Socials:
